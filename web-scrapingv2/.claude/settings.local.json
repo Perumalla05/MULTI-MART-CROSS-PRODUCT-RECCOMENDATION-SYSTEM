@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node debug-sponsored.js:*)",
+      "Bash(node debug-adholder.js:*)",
+      "Bash(node:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}
