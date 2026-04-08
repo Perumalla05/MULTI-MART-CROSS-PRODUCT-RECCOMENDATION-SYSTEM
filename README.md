@@ -82,53 +82,7 @@ The system uses:
 * Ratings & reviews
 * Delivery time
 
----
 
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/ecommerce-price-aggregator.git
-cd ecommerce-price-aggregator
-```
-
-### 2️⃣ Install dependencies
-
-```bash
-npm install
-```
-
-### 3️⃣ Setup environment variables
-
-Create a `.env` file:
-
-```
-PORT=3000
-REDIS_URL=your_redis_url (optional)
-```
-
-### 4️⃣ Run backend server
-
-```bash
-npm start
-```
-
-### 5️⃣ Run frontend
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-### 6️⃣ Open in browser
-
-```
-http://localhost:5173
-```
-
----
 
 ## 🔐 Key Concepts
 
@@ -166,4 +120,3 @@ This system provides an efficient and scalable solution to compare prices across
 
 
 
-Just tell me 👍
